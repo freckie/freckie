@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Freckie (Myung-Hyun Kim)
+## Freckie (Myung-Hyun Kim)
+
+- 😄 I'm Interested in Cloud Computing, Networking and also Soju 😄
 
 <div align=center>
 
