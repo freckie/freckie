@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ## Freckie (Myung-Hyun Kim)
 
 - 😄 I'm Interested in **Cloud Computing**, **Networking** and also **Soju** 😄
+- I love you 💕
 
 <div align=center>
 
