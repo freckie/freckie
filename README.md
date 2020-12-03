@@ -1,22 +1,12 @@
-
-<!--
-**freckie/freckie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Freckie (Myung-Hyun Kim)
 
-- 😄 I'm Interested in **Cloud Computing**, **Networking** and also **Soju** 😄
+😄 I'm Interested in **Cloud Computing**, **Networking** and also **Soju** 😄
+
+### My Stats
+<div align=center>
+[![Freckie's github stats](https://github-readme-stats.vercel.app/api?username=freckie&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freckie&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <div align=center>
 
