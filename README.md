@@ -2,8 +2,6 @@
 
 😄 I'm Interested in **Cloud Computing**, **Networking** and also **Soju** 😄
 
-### My Stats
-
 <div align=center>
   [![Freckie's github stats](https://github-readme-stats.vercel.app/api?username=freckie&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freckie&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
