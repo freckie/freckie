@@ -1,6 +1,8 @@
 ## Freckie (Myung-Hyun Kim)
 
-- 😄 I'm Interested in **Cloud Computing**, **Networking** and also **Soju** 😄
+😄 I'm Interested in **Cloud Computing**, **Networking** and also **Soju** 😄
+
+### My Stats
 
 <div align=center>
 
@@ -14,6 +16,7 @@
   
 </div>
 
+### Contact me
 
 <div align=center>
 
