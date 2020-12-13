@@ -1,6 +1,8 @@
 ## Freckie (Myung-Hyun Kim) 🇰🇷
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffreckie)](https://hits.seeyoufarm.com)
 
-Majored in Computer Engineering at Kyung Hee University. Interested in **Networking**, **Cloud Computing** and also **Soju** 🍸.  
+Majored in Computer Engineering at [Kyung Hee University](https://khu.ac.kr). Interested in **Networking**, **Cloud Computing** and also **Soju** 🍸. 
+
 
 - 🎓 B.S. in Computer Engineering
 - 📚 I'm preparing for Graduate School to study Cloud Computing.
@@ -18,13 +20,14 @@ Majored in Computer Engineering at Kyung Hee University. Interested in **Network
 ![MySQL](https://img.shields.io/badge/MySQL-447A91?style=for-the-badge&logoColor=white&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A24B?style=for-the-badge&logoColor=white&logo=mongodb)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logoColor=white&logo=insomnia)
+![Notion](https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logoColor=white&logo=notion)
 <!-- Badges are made with shields.io -->
 
 
 ### To Contact me
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=http://blog.frec.kr/)](http://blog.frec.kr/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freckie@frec.kr)](mailto:freckie@frec.kr)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffreckie)](https://hits.seeyoufarm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logoColor=white&logo=github)](https://github.com/freckie)
+[![E-Mail](https://img.shields.io/badge/freckie@frec.kr-D14836?style=for-the-badge&logoColor=white&logo=gmail)](mailto:freckie@frec.kr)
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-800000?style=for-the-badge&logoColor=white&logo=blogger)](https://blog.frec.kr)
 
 ### My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freckie&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
