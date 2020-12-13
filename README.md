@@ -13,8 +13,8 @@ Majored in Computer Engineering at Kyung Hee University. Interested in **Network
 
 ### To Contact me
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=http://blog.frec.kr/)](http://blog.frec.kr/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffreckie)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freckie@frec.kr)](mailto:freckie@frec.kr)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffreckie)](https://hits.seeyoufarm.com)
 
 ### My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freckie&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
