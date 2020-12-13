@@ -12,6 +12,7 @@ Majored in Computer Engineering at [Kyung Hee University](https://khu.ac.kr). In
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logoColor=white&logo=c)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logoColor=white&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logoColor=white&logo=vue.js)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white&logo=visual%20studio%20code)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)
