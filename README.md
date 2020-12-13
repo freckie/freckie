@@ -1,7 +1,7 @@
 ## Freckie (Myung-Hyun Kim) 🇰🇷
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffreckie)](https://hits.seeyoufarm.com)
 
-Majored in Computer Engineering at [Kyung Hee University](https://khu.ac.kr). Interested in **Networking**, **Cloud Computing** and also **Soju** 🍸. 
+Majored in Computer Engineering at [Kyung Hee University](https://khu.ac.kr). Interested in **Networking**, **Cloud Computing** and also [**Soju**](https://en.wikipedia.org/wiki/Soju) 🍸. 
 
 
 - 🎓 B.S. in Computer Engineering
@@ -25,8 +25,8 @@ Majored in Computer Engineering at [Kyung Hee University](https://khu.ac.kr). In
 
 
 ### To Contact me
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logoColor=white&logo=github)](https://github.com/freckie)
 [![E-Mail](https://img.shields.io/badge/freckie@frec.kr-D14836?style=for-the-badge&logoColor=white&logo=gmail)](mailto:freckie@frec.kr)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logoColor=white&logo=github)](https://github.com/freckie)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-800000?style=for-the-badge&logoColor=white&logo=blogger)](https://blog.frec.kr)
 
 ### My Stats
