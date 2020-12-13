@@ -6,15 +6,15 @@ Majored in Computer Engineering at Kyung Hee University. Interested in **Network
 - 📚 I'm preparing for Graduate School to study Cloud Computing.
 - ⚙️ Mastering: Golang, Python, Modern C++
 
-### I Code with
+### I Code with ...
 ![Go](https://img.shields.io/badge/Go-1.15-blue)
 ![Python](https://img.shields.io/badge/Python-3.8-orange)
 ![C++](https://img.shields.io/badge/C++-20-lightgrey)
 
-### Contact me
+### To Contact me ...
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffreckie)](https://hits.seeyoufarm.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=http://blog.frec.kr/)](http://blog.frec.kr/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffreckie)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freckie@frec.kr)](mailto:freckie@frec.kr)
 
 ### My Stats
