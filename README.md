@@ -2,7 +2,7 @@
 
 Majored in Computer Engineering at Kyung Hee University. Interested in **Networking**, **Cloud Computing** and also **Soju** 🍸.  
 
-- 🎓 Bachelor of Science in Computer Engineering
+- 🎓 B.S. in Computer Engineering
 - 📚 I'm preparing for Graduate School to study Cloud Computing.
 - ⚙️ Mastering: Golang, Python, Modern C++
 
