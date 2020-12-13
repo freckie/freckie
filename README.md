@@ -20,10 +20,10 @@ Majored in Computer Engineering at [Kyung Hee University](https://khu.ac.kr). In
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logoColor=white&logo=pytorch)
 ![MySQL](https://img.shields.io/badge/MySQL-447A91?style=for-the-badge&logoColor=white&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A24B?style=for-the-badge&logoColor=white&logo=mongodb)
+![SOJU](https://img.shields.io/badge/SOJU-47A24B?style=for-the-badge&logoColor=white&logo=mocha)
 <!--
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logoColor=white&logo=insomnia)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logoColor=white&logo=notion)
--->
 <!-- Badges are made with shields.io -->
 
 
