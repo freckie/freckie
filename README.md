@@ -33,6 +33,6 @@ Majored in Computer Engineering at [Kyung Hee University](https://khu.ac.kr). In
 ### My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freckie&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Freckie's github stats](https://github-readme-stats.vercel.app/api?username=freckie)](https://github.com/anuraghazra/github-readme-stats)
+[![Freckie's github stats](https://github-readme-stats.vercel.app/api?username=freckie&cound_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=freckie)](https://github.com/anuraghazra/github-readme-stats)
