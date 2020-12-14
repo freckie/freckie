@@ -9,6 +9,7 @@ Majored in Computer Engineering at [Kyung Hee University](https://khu.ac.kr). In
 - ⚙️ Mastering: Golang, Python, Modern C++
 
 ### I Code with
+![MacBook](https://img.shields.io/badge/MacBook-999999?style=for-the-badge&logoColor=white&logo=apple)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logoColor=white&logo=c)
@@ -22,9 +23,6 @@ Majored in Computer Engineering at [Kyung Hee University](https://khu.ac.kr). In
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logoColor=white&logo=electron)
 ![MySQL](https://img.shields.io/badge/MySQL-447A91?style=for-the-badge&logoColor=white&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A24B?style=for-the-badge&logoColor=white&logo=mongodb)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logoColor=white&logo=ubuntu)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=white&logo=windows)
-![MacBook](https://img.shields.io/badge/MacBook-999999?style=for-the-badge&logoColor=white&logo=apple)
 [![SOJU](https://img.shields.io/badge/SOJU-47A24B?style=for-the-badge&logoColor=white&logo=mocha)](https://en.wikipedia.org/wiki/Soju)
 <!--
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logoColor=white&logo=insomnia)
