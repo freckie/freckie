@@ -5,7 +5,7 @@ Majored in Computer Science and Enginnering at [Kyung Hee University](https://kh
 
 
 - 🎓 **B.S.** in Computer Science
-- 📚 I'm preparing for Graduate School to study Cloud Computing.
+- 📚 preparing for Graduate School to study Cloud Computing.
 - ⚙️ Mastering: Golang, Python, Modern C++
 
 ### I Code with
