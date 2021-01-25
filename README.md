@@ -7,6 +7,8 @@ Interested in **Networking**, **Cloud Computing** and also [**Soju**](https://en
 
 - 🎓 **B.S.** in Computer Science
 
+---
+
 ### I Code with
 ![MacBook](https://img.shields.io/badge/MacBook-999999?style=for-the-badge&logoColor=white&logo=apple)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
@@ -40,3 +42,5 @@ Interested in **Networking**, **Cloud Computing** and also [**Soju**](https://en
 [![Freckie's github stats](https://github-readme-stats.vercel.app/api?username=freckie&cound_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=freckie)](https://github.com/anuraghazra/github-readme-stats)
+
+---
