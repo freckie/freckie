@@ -6,8 +6,6 @@ Interested in **Networking**, **Cloud Computing** and also [**Soju**](https://en
 
 
 - 🎓 **B.S.** in Computer Science
-- 📚 preparing for Graduate School to study Cloud Computing.
-- ⚙️ Mastering: Golang, Python, Modern C++
 
 ### I Code with
 ![MacBook](https://img.shields.io/badge/MacBook-999999?style=for-the-badge&logoColor=white&logo=apple)
