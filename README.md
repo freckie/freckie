@@ -1,9 +1,8 @@
-## Freckie (Myung-Hyun Kim) 🇰🇷
+<h2 align="center">👋 Freckie (Myung-Hyun Kim) 🇰🇷</h2>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffreckie)](https://hits.seeyoufarm.com)
 
-I majored in Computer Science and Enginnering at [Kyung Hee University](https://khu.ac.kr),
-and now I am in master's course at [Korea University](http://korea.ac.kr).  
-Interested in **Networking**, **Cloud Computing** and also [**Soju**](https://en.wikipedia.org/wiki/Soju) 🍸. 
+Graduate Student in Distributed & Cloud Computing Lab. from [Korea University](http://korea.ac.kr), majored Computer Science and Engineering in [Kyung Hee University](https://khu.ac.kr). Interested in **Cloud Computing** and also [**Soju**](https://en.wikipedia.org/wiki/Soju) 🍸. 
 
 ---
 
@@ -14,6 +13,7 @@ Interested in **Networking**, **Cloud Computing** and also [**Soju**](https://en
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logoColor=white&logo=c)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logoColor=white&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logoColor=white&logo=vue.js)
+[![Soju](https://img.shields.io/badge/SOJU-47A24B?style=for-the-badge&logoColor=white&logo=mocha)](https://en.wikipedia.org/wiki/Soju)
 <!--
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white&logo=visual%20studio%20code)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)
@@ -24,7 +24,6 @@ Interested in **Networking**, **Cloud Computing** and also [**Soju**](https://en
 ![MySQL](https://img.shields.io/badge/MySQL-447A91?style=for-the-badge&logoColor=white&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A24B?style=for-the-badge&logoColor=white&logo=mongodb)
 -->
-[![SOJU](https://img.shields.io/badge/SOJU-47A24B?style=for-the-badge&logoColor=white&logo=mocha)](https://en.wikipedia.org/wiki/Soju)
 <!--
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logoColor=white&logo=insomnia)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logoColor=white&logo=notion)
