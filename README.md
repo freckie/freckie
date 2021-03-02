@@ -5,9 +5,8 @@
 <p align="center">I'm a graduate student in <b>Distributed & Cloud Computing Lab.</b> from <a href="http://korea.ac.kr">Korea University,</a> and I majored Computer Science and Engineering in <a href="https://khu.ac.kr">Kyung Hee University.</a></p>
 <p align="center">I'm interested in <b>Cloud Computing</b> and <a href="https://en.wikipedia.org/wiki/Soju"><b>Soju</b></a> 🍸.</p>
 
----
+<h3 align="center">I Code with ...</h3>
 
-### I Code with
 ![MacBook](https://img.shields.io/badge/MacBook-999999?style=for-the-badge&logoColor=white&logo=apple)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python)
@@ -15,6 +14,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logoColor=white&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logoColor=white&logo=vue.js)
 [![Soju](https://img.shields.io/badge/SOJU-47A24B?style=for-the-badge&logoColor=white&logo=mocha)](https://en.wikipedia.org/wiki/Soju)
+
 <!--
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white&logo=visual%20studio%20code)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)
