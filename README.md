@@ -1,11 +1,9 @@
 ## Freckie (Myung-Hyun Kim) 🇰🇷
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffreckie)](https://hits.seeyoufarm.com)
 
-Majored in Computer Science and Enginnering at [Kyung Hee University](https://khu.ac.kr).  
+I majored in Computer Science and Enginnering at [Kyung Hee University](https://khu.ac.kr),
+and now I am in master's course at [Korea University](http://korea.ac.kr).  
 Interested in **Networking**, **Cloud Computing** and also [**Soju**](https://en.wikipedia.org/wiki/Soju) 🍸. 
-
-
-- 🎓 **B.S.** in Computer Science
 
 ---
 
@@ -16,6 +14,7 @@ Interested in **Networking**, **Cloud Computing** and also [**Soju**](https://en
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logoColor=white&logo=c)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logoColor=white&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logoColor=white&logo=vue.js)
+<!--
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white&logo=visual%20studio%20code)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white&logo=amazon%20aws)
@@ -24,6 +23,7 @@ Interested in **Networking**, **Cloud Computing** and also [**Soju**](https://en
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logoColor=white&logo=electron)
 ![MySQL](https://img.shields.io/badge/MySQL-447A91?style=for-the-badge&logoColor=white&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A24B?style=for-the-badge&logoColor=white&logo=mongodb)
+-->
 [![SOJU](https://img.shields.io/badge/SOJU-47A24B?style=for-the-badge&logoColor=white&logo=mocha)](https://en.wikipedia.org/wiki/Soju)
 <!--
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logoColor=white&logo=insomnia)
