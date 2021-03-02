@@ -5,7 +5,9 @@
 <p align="center">I'm a graduate student in <b>Distributed & Cloud Computing Lab.</b> from <a href="http://korea.ac.kr">Korea University,</a> and I majored Computer Science and Engineering in <a href="https://khu.ac.kr">Kyung Hee University.</a></p>
 <p align="center">I'm interested in <b>Cloud Computing</b> and <a href="https://en.wikipedia.org/wiki/Soju"><b>Soju</b></a> 🍸.</p>
 
-<h3 align="center">I Code with ...</h3>
+---
+
+I Code with
 
 ![MacBook](https://img.shields.io/badge/MacBook-999999?style=for-the-badge&logoColor=white&logo=apple)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
