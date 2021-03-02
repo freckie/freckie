@@ -2,7 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffreckie)](https://hits.seeyoufarm.com)
 
-Graduate Student in Distributed & Cloud Computing Lab. from [Korea University](http://korea.ac.kr), majored Computer Science and Engineering in [Kyung Hee University](https://khu.ac.kr). Interested in **Cloud Computing** and also [**Soju**](https://en.wikipedia.org/wiki/Soju) 🍸. 
+<p align="center">I'm a graduate student in <b>Distributed & Cloud Computing Lab.</b> from <a href="http://korea.ac.kr">Korea University,</a></p>
+<p align="center">and I majored Computer Science and Engineering in <a href="https://khu.ac.kr">Kyung Hee University.</a></p>
+<p align="center">I'm interested in <b>Cloud Computing</b> and also <a href="https://en.wikipedia.org/wiki/Soju"><b>Soju</b></a> 🍸.</p> 
 
 ---
 
