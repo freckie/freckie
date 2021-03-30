@@ -1,6 +1,8 @@
 <h2 align="center">👋 Freckie (Myung-Hyun Kim) 🇰🇷</h2>
 
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffreckie)](https://hits.seeyoufarm.com)
+-->
 
 <p align="center">I'm a graduate student in <b>Distributed & Cloud Computing Lab.</b> at <a href="http://korea.ac.kr">Korea University,</a>  
 <br>
