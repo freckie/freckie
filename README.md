@@ -11,8 +11,10 @@
 
 ---
 
-### I Code with
+<h3 align="center">I code with</h3>
 
+<div align="center">
+  
 ![MacBook](https://img.shields.io/badge/MacBook-999999?style=for-the-badge&logoColor=white&logo=apple)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python)
@@ -21,6 +23,8 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logoColor=white&logo=vue.js)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white&logo=amazon%20aws)
 [![Soju](https://img.shields.io/badge/SOJU-47A24B?style=for-the-badge&logoColor=white&logo=mocha)](https://en.wikipedia.org/wiki/Soju)
+ 
+</div>
 
 <!--
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white&logo=visual%20studio%20code)
@@ -38,13 +42,23 @@
 <!-- Badges are made with shields.io -->
 
 
-### To Contact me
+<h3 align="center">To contact me</h3>
+
+<div align="center">
+  
 [![E-Mail](https://img.shields.io/badge/freckie@frec.kr-D14836?style=for-the-badge&logoColor=white&logo=gmail)](mailto:freckie@frec.kr)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logoColor=white&logo=github)](https://github.com/freckie)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-800000?style=for-the-badge&logoColor=white&logo=blogger)](https://blog.frec.kr)
+  
+</div>
 
-### My Stats
+<h3 align="center">My stats</h3>
+
+<div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freckie&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 <!--
 [![Freckie's github stats](https://github-readme-stats.vercel.app/api?username=freckie&cound_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
