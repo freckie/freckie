@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">I code with</h3>
+<h3 align="center">I'm interested in</h3>
 
 <div align="center">
   
@@ -19,8 +19,9 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logoColor=white&logo=c)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logoColor=white&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logoColor=white&logo=vue.js)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logoColor=white&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white&logo=amazon%20aws)
 [![Soju](https://img.shields.io/badge/SOJU-47A24B?style=for-the-badge&logoColor=white&logo=mocha)](https://en.wikipedia.org/wiki/Soju)
  
@@ -28,9 +29,10 @@
 
 <!--
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white&logo=visual%20studio%20code)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white&logo=amazon%20aws)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logoColor=white&logo=tensorflow)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logoColor=white&logo=javascript)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logoColor=white&logo=pytorch)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logoColor=white&logo=electron)
 ![MySQL](https://img.shields.io/badge/MySQL-447A91?style=for-the-badge&logoColor=white&logo=mysql)
