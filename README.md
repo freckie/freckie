@@ -1,20 +1,22 @@
 <h2 align="center">👋 Freckie (Myung-Hyun Kim) 🇰🇷</h2>
 
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffreckie)](https://hits.seeyoufarm.com)
--->
-
-<p align="center">I'm a graduate student in <b>Distributed & Cloud Computing Lab.</b> at <a href="http://korea.ac.kr">Korea University,</a>  
 <br>
-  and I majored in Computer Science and Engineering at <a href="https://khu.ac.kr">Kyung Hee University.</a></p>
-<p align="center">I'm interested in <b>Cloud Computing</b> and <a href="https://en.wikipedia.org/wiki/Soju"><b>Soju</b></a> 🍸.</p>
 
----
+<p align="center">❞ 𝑻𝒉𝒆 𝑩𝒆𝒔𝒕 𝑾𝒂𝒚 𝑻𝒐 𝑷𝒓𝒆𝒅𝒊𝒄𝒕 𝑭𝒖𝒕𝒖𝒓𝒆 𝑰𝒔 𝑻𝒐 𝑪𝒓𝒆𝒂𝒕𝒆 𝑰𝒕 ❞</p>
 
-<h3 align="center">I'm interested in</h3>
+<p align="center">
+  I'm a <b>🎓Graduate Student</b> <a href="http://korea.ac.kr">@Korea Univ.</a>, studying Cloud Computing. <br>
+  I'm a <b>Enthusiastic Golang Lover</b>, and I'd love to code in Go on the cloud environment. <br>
+  Also, <a href="https://en.wikipedia.org/wiki/Soju"><b>🍾Soju</b></a> is my best friend.
+</p>
 
-<div align="center">
-  
+## &nbsp;
+
+### 😎 About Me
+- 🧪 Computer Science Researcher in <b>Distributed & Cloud Computing Lab.</b> at Korea University.
+- 🎓 B.S in Computer Science and Engineering at <a href="https://khu.ac.kr">Kyung Hee University</a>.
+
+### ⚡ My Technologies  
 ![MacBook](https://img.shields.io/badge/MacBook-999999?style=for-the-badge&logoColor=white&logo=apple)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python)
@@ -24,49 +26,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white&logo=amazon%20aws)
 [![Soju](https://img.shields.io/badge/SOJU-47A24B?style=for-the-badge&logoColor=white&logo=mocha)](https://en.wikipedia.org/wiki/Soju)
- 
-</div>
-
-<!--
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white&logo=visual%20studio%20code)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white&logo=amazon%20aws)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logoColor=white&logo=tensorflow)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logoColor=white&logo=javascript)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logoColor=white&logo=pytorch)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logoColor=white&logo=electron)
-![MySQL](https://img.shields.io/badge/MySQL-447A91?style=for-the-badge&logoColor=white&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A24B?style=for-the-badge&logoColor=white&logo=mongodb)
--->
-<!--
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logoColor=white&logo=insomnia)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logoColor=white&logo=notion)
 <!-- Badges are made with shields.io -->
 
-
-<h3 align="center">To contact me</h3>
-
-<div align="center">
-  
+### 📞 To Reach Me  
 [![E-Mail](https://img.shields.io/badge/freckie@frec.kr-D14836?style=for-the-badge&logoColor=white&logo=gmail)](mailto:freckie@frec.kr)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logoColor=white&logo=github)](https://github.com/freckie)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-800000?style=for-the-badge&logoColor=white&logo=blogger)](https://blog.frec.kr)
-  
-</div>
 
-<h3 align="center">My stats</h3>
-
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freckie&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
-<!--
+### 📈 My stats  
 [![Freckie's github stats](https://github-readme-stats.vercel.app/api?username=freckie&cound_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<!--
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=freckie)](https://github.com/anuraghazra/github-readme-stats)
--->
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freckie&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
