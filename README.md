@@ -13,8 +13,8 @@
 ## &nbsp;
 
 ### 😎 About Me
-- 🧪 Computer Science Researcher in <b>Distributed & Cloud Computing Lab.</b> at Korea University.
-- 🎓 B.S in Computer Science and Engineering at <a href="https://khu.ac.kr">Kyung Hee University</a>.
+- 🧪 Computer Science Researcher in <b>Distributed & Cloud Computing Lab.</b> at Korea University. <i>(2021-2023)</i>
+- 🎓 B.S in Computer Science and Engineering at <a href="https://khu.ac.kr">Kyung Hee University</a>. <i>(2017-2021)</i>
 
 ### ⚡ My Technologies  
 ![MacBook](https://img.shields.io/badge/MacBook-999999?style=for-the-badge&logoColor=white&logo=apple)
