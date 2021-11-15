@@ -33,5 +33,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logoColor=white&logo=github)](https://github.com/freckie)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-800000?style=for-the-badge&logoColor=white&logo=blogger)](https://blog.frec.kr)
 
+<!--
 ### 📈 My stats  
 [![Freckie's github stats](https://github-readme-stats.vercel.app/api?username=freckie&cound_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
