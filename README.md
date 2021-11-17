@@ -7,7 +7,7 @@
 
 <p align="center">
   I'm a <b>🎓Graduate Student</b> <a href="http://korea.ac.kr">@Korea Univ.</a>, studying Cloud Computing. <br>
-  I'm an <b>Enthusiastic Golang Lover</b>, and I'd love to code in Go on the cloud environment. <br>
+  I'm a <b>GoLang Enthusiast</b>, and I'd love to code in Go on the cloud environment. <br>
   Also, <a href="https://en.wikipedia.org/wiki/Soju"><b>🍾Soju</b></a> is my best friend.
 </p>
 
