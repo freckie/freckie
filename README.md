@@ -2,7 +2,8 @@
 
 <br>
 
-<p align="center">❞ 𝑻𝒉𝒆 𝑩𝒆𝒔𝒕 𝑾𝒂𝒚 𝑻𝒐 𝑷𝒓𝒆𝒅𝒊𝒄𝒕 𝑭𝒖𝒕𝒖𝒓𝒆 𝑰𝒔 𝑻𝒐 𝑪𝒓𝒆𝒂𝒕𝒆 𝑰𝒕 ❞</p>
+<p align="center">"𝑇ℎ𝑒 𝐵𝑒𝑠𝑡 𝑊𝑎𝑦 𝑇𝑜 𝑃𝑟𝑒𝑑𝑖𝑐𝑡 𝐹𝑢𝑡𝑢𝑟𝑒 𝐼𝑠 𝑇𝑜 𝐶𝑟𝑒𝑎𝑡𝑒 𝐼𝑡"</p>
+<!-- from https://fsymbols.com/letters/ -->
 
 <p align="center">
   I'm a <b>🎓Graduate Student</b> <a href="http://korea.ac.kr">@Korea Univ.</a>, studying Cloud Computing. <br>
@@ -12,26 +13,27 @@
 
 ## &nbsp;
 
-### 😎 About Me
-- 🧪 Computer Science Researcher in <b>Distributed & Cloud Computing Lab.</b> at Korea University. <i>(2021-2023)</i>
-- 🎓 B.S in Computer Science and Engineering at <a href="https://khu.ac.kr">Kyung Hee University</a>. <i>(2017-2021)</i>
-
-### ⚡ My Technologies  
-![MacBook](https://img.shields.io/badge/MacBook-999999?style=for-the-badge&logoColor=white&logo=apple)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logoColor=white&logo=c)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logoColor=white&logo=vue.js)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logoColor=white&logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white&logo=amazon%20aws)
-[![Soju](https://img.shields.io/badge/SOJU-47A24B?style=for-the-badge&logoColor=white&logo=mocha)](https://en.wikipedia.org/wiki/Soju)
+<div align="center">
+  
+  ![MacBook](https://img.shields.io/badge/MacBook-999999?style=flat-square&logoColor=white&logo=apple)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logoColor=white&logo=go)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white&logo=python)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logoColor=white&logo=c)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logoColor=white&logo=vue.js)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logoColor=white&logo=kubernetes)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logoColor=white&logo=docker)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white&logo=amazon%20aws)
+  [![Soju](https://img.shields.io/badge/SOJU-47A24B?style=flat-square&logoColor=white&logo=mocha)](https://en.wikipedia.org/wiki/Soju)  
+  [![E-Mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logoColor=white&logo=gmail)](mailto:freckie@frec.kr)
+  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logoColor=white&logo=github)](https://github.com/freckie)
+  [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-800000?style=flat-square&logoColor=white&logo=blogger)](https://blog.frec.kr)
+  
+</div>
 <!-- Badges are made with shields.io -->
 
-### 📞 To Reach Me  
-[![E-Mail](https://img.shields.io/badge/freckie@frec.kr-D14836?style=for-the-badge&logoColor=white&logo=gmail)](mailto:freckie@frec.kr)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logoColor=white&logo=github)](https://github.com/freckie)
-[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-800000?style=for-the-badge&logoColor=white&logo=blogger)](https://blog.frec.kr)
+#### 😎 About Me
+- 🧪 Researching Serverless architectures in <b>Distributed & Cloud Computing Lab.</b> at Korea University. <i>(2021-2023)</i>
+- 🎓 B.S in Computer Science and Engineering at <a href="https://khu.ac.kr">Kyung Hee University</a>. <i>(2017-2021)</i>
 
 <!--
 ### 📈 My stats  
