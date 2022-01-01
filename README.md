@@ -22,7 +22,6 @@
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logoColor=white&logo=kubernetes)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logoColor=white&logo=docker)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white&logo=amazon%20aws)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logoColor=white&logo=vue.js)
   [![Soju](https://img.shields.io/badge/Soju-47A24B?style=flat-square&logoColor=white&logo=mocha)](https://en.wikipedia.org/wiki/Soju)  
   [![E-Mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logoColor=white&logo=gmail)](mailto:freckie@frec.kr)
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logoColor=white&logo=github)](https://github.com/freckie)
