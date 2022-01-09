@@ -31,7 +31,7 @@
 <!-- Badges are made with shields.io -->
 
 #### 😎 About Me
-- 🧪 Researching Serverless architectures in <b>Distributed & Cloud Computing Lab.</b> at Korea University. <i>(2021-)</i>
+- 🧪 Researching Serverless architectures in <b>Distributed & Cloud Computing Lab.</b> at Korea University. <i>(2021-2023)</i>
 - 🎓 B.S in Computer Science and Engineering at <a href="https://khu.ac.kr">Kyung Hee University</a>. <i>(2017-2021)</i>
 
 <!--
