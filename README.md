@@ -26,6 +26,7 @@
   [![E-Mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logoColor=white&logo=gmail)](mailto:freckie@frec.kr)
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logoColor=white&logo=github)](https://github.com/freckie)
   [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-800000?style=flat-square&logoColor=white&logo=blogger)](https://blog.frec.kr)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white&logo=LinkedIn)](https://linkedin.com/in/김명현)
   
 </div>
 <!-- Badges are made with shields.io -->
