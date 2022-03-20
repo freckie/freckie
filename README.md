@@ -1,15 +1,23 @@
+<!--
 <h2 align="center">👋 Freckie (Myung-Hyun Kim) 🇰🇷</h2>
 
 <br>
+-->
 
-<p align="center">"𝑇ℎ𝑒 𝐵𝑒𝑠𝑡 𝑊𝑎𝑦 𝑇𝑜 𝑃𝑟𝑒𝑑𝑖𝑐𝑡 𝐹𝑢𝑡𝑢𝑟𝑒 𝐼𝑠 𝑇𝑜 𝐶𝑟𝑒𝑎𝑡𝑒 𝐼𝑡"</p>
+<!-- <p align="center">"𝑇ℎ𝑒 𝐵𝑒𝑠𝑡 𝑊𝑎𝑦 𝑇𝑜 𝑃𝑟𝑒𝑑𝑖𝑐𝑡 𝐹𝑢𝑡𝑢𝑟𝑒 𝐼𝑠 𝑇𝑜 𝐶𝑟𝑒𝑎𝑡𝑒 𝐼𝑡"</p> -->
 <!-- from https://fsymbols.com/letters/ -->
 
+<!--
 <p align="center">
   I'm a <b>🎓Graduate Student</b> <a href="http://korea.ac.kr">@Korea Univ.</a>, studying Cloud Computing. <br>
   As a <b>GoLang Enthusiast</b>, I enjoy coding in Go on the cloud environment. <br>
   Also, <a href="https://en.wikipedia.org/wiki/Soju"><b>🍾Soju</b></a> is my best friend.
 </p>
+-->
+
+#### 😎 About Me 😎
+- 🧪 Master Course student (<i>Distributed & Cloud Computing Lab.</i> @ <a href="http://korea.ac.kr">Korea Univ.</a>) <i>(2021-2023)</i>
+- 🎓 B.S in Computer Science and Engineering @ <a href="https://khu.ac.kr">Kyung Hee University</a> <i>(2017-2021)</i>
 
 ## &nbsp;
 
@@ -30,10 +38,6 @@
   
 </div>
 <!-- Badges are made with shields.io -->
-
-#### 😎 About Me
-- 🧪 Researching Serverless architectures in <b>Distributed & Cloud Computing Lab.</b> at Korea University. <i>(2021-2023)</i>
-- 🎓 B.S in Computer Science and Engineering at <a href="https://khu.ac.kr">Kyung Hee University</a>. <i>(2017-2021)</i>
 
 <!--
 ### 📈 My stats  
