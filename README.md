@@ -17,7 +17,7 @@
 
 #### 😎 About Me 😎
 - 🧪 Master Course student (<i>Distributed & Cloud Computing Lab.</i> @ <a href="http://korea.ac.kr">Korea Univ.</a>) <i>(2021-2023)</i>
-- 🎓 B.S in Computer Science and Engineering @ <a href="https://khu.ac.kr">Kyung Hee University</a> <i>(2017-2021)</i>
+- 🎓 B.S in Computer Science and Engineering @ <a href="https://khu.ac.kr">Kyung Hee Univ.</a> <i>(2017-2021)</i>
 
 ## &nbsp;
 
