@@ -35,6 +35,7 @@
   [![Soju](https://img.shields.io/badge/Soju-47A24B?style=flat-square&logoColor=white&logo=mocha)](https://en.wikipedia.org/wiki/Soju)  
   [![E-Mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logoColor=white&logo=gmail)](mailto:freckie@frec.kr)
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logoColor=white&logo=github)](https://github.com/freckie)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-informational?style=flat-square&logoColor=white&logo=notion)](https://freckie.notion.site/64d6f9bb2034479191cbef0ee403cc7b)
   [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-800000?style=flat-square&logoColor=white&logo=blogger)](https://blog.frec.kr)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white&logo=LinkedIn)](https://linkedin.com/in/김명현)
   
