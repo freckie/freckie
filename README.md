@@ -16,7 +16,7 @@
 -->
 
 #### 😎 About Me 😎
-- 전문연구요원 <i>(2023.06~)</i>
+- 전문연구요원 - TmaxAI <i>(2023.06~)</i>
 - 🎓 M.S in Computer Science and Engineering (<i>Distributed & Cloud Computing Lab.</i> @ <a href="http://korea.ac.kr">Korea Univ.</a>) <i>(2021.03-2023.02)</i>
 - 🎓 B.S in Computer Science and Engineering @ <a href="https://khu.ac.kr">Kyung Hee Univ.</a> <i>(2017.03-2021.02)</i>
 
@@ -26,13 +26,14 @@
 
 <div align="center">
   
-  ![MacBook](https://img.shields.io/badge/MacBook-999999?style=flat-square&logoColor=white&logo=apple)
+  ![Mac](https://img.shields.io/badge/Mac-999999?style=flat-square&logoColor=white&logo=apple)
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logoColor=white&logo=go)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white&logo=python)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logoColor=white&logo=c)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logoColor=white&logo=kotlin)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logoColor=white&logo=kubernetes)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logoColor=white&logo=docker)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white&logo=amazon%20aws)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logoColor=white&logo=spring)
   [![Soju](https://img.shields.io/badge/Soju-47A24B?style=flat-square&logoColor=white&logo=mocha)](https://en.wikipedia.org/wiki/Soju)  
   [![E-Mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logoColor=white&logo=gmail)](mailto:freckie@frec.kr)
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logoColor=white&logo=github)](https://github.com/freckie)
