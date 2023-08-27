@@ -29,6 +29,7 @@
   ![Mac](https://img.shields.io/badge/Mac-999999?style=flat-square&logoColor=white&logo=apple)
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logoColor=white&logo=go)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white&logo=python)
+  ![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logoColor=white&logo=kotlin)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logoColor=white&logo=kubernetes)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logoColor=white&logo=docker)
