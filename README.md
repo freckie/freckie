@@ -16,7 +16,7 @@
 -->
 
 #### 😎 About Me 😎
-- 전문연구요원 - TmaxAI <i>(2023.06~)</i>
+- 전문연구요원 - TmaxAI <i>(2023.03~)</i>
 - 🎓 M.S in Computer Science and Engineering (<i>Distributed & Cloud Computing Lab.</i> @ <a href="http://korea.ac.kr">Korea Univ.</a>) <i>(2021.03-2023.02)</i>
 - 🎓 B.S in Computer Science and Engineering @ <a href="https://khu.ac.kr">Kyung Hee Univ.</a> <i>(2017.03-2021.02)</i>
 
