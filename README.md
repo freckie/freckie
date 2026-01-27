@@ -1,5 +1,5 @@
 #### 😎 About Me 😎
-- Software Engineer (전문연구요원) @ThorDrive <i>(2025.01-)</i>
+- Software Engineer (전문연구요원) @ThorDrive <i>(2025.01-2026.01)</i>
 - Web Backend Engineer (전문연구요원) @TmaxAI <i>(2023.03-2024.12)</i>
 - 🎓 M.S in Computer Science and Engineering (<i>Distributed & Cloud Computing Lab.</i> @ <a href="http://korea.ac.kr">Korea Univ.</a>) <i>(2021.03-2023.02)</i>
 - 🎓 B.S in Computer Science and Engineering @ <a href="https://khu.ac.kr">Kyung Hee Univ.</a> <i>(2017.03-2021.02)</i>
